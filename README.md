@@ -1,1 +1,1 @@
-# event-web
+A simple event page
